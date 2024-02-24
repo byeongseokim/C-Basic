@@ -1,0 +1,14 @@
+C:\Users\SIT\source\repos\LogicalOperator\LogicalOperator\bin\Debug\LogicalOperator.exe.config
+C:\Users\SIT\source\repos\LogicalOperator\LogicalOperator\bin\Debug\LogicalOperator.exe
+C:\Users\SIT\source\repos\LogicalOperator\LogicalOperator\bin\Debug\LogicalOperator.pdb
+C:\Users\SIT\source\repos\LogicalOperator\LogicalOperator\obj\Debug\LogicalOperator.csproj.AssemblyReference.cache
+C:\Users\SIT\source\repos\LogicalOperator\LogicalOperator\obj\Debug\LogicalOperator.csproj.CoreCompileInputs.cache
+C:\Users\SIT\source\repos\LogicalOperator\LogicalOperator\obj\Debug\LogicalOperator.exe
+C:\Users\SIT\source\repos\LogicalOperator\LogicalOperator\obj\Debug\LogicalOperator.pdb
+F:\repos\LogicalOperator\LogicalOperator\bin\Debug\LogicalOperator.exe.config
+F:\repos\LogicalOperator\LogicalOperator\bin\Debug\LogicalOperator.exe
+F:\repos\LogicalOperator\LogicalOperator\bin\Debug\LogicalOperator.pdb
+F:\repos\LogicalOperator\LogicalOperator\obj\Debug\LogicalOperator.csproj.AssemblyReference.cache
+F:\repos\LogicalOperator\LogicalOperator\obj\Debug\LogicalOperator.csproj.CoreCompileInputs.cache
+F:\repos\LogicalOperator\LogicalOperator\obj\Debug\LogicalOperator.exe
+F:\repos\LogicalOperator\LogicalOperator\obj\Debug\LogicalOperator.pdb
